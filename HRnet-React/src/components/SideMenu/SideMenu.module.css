@@ -1,0 +1,17 @@
+.container{
+    background: #01504D;
+    height: 100vh;
+    width: 5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.powerOff{
+    text-align: center;
+    padding: 1em 0;
+    color: #1FA975;
+    font-size: 2em;
+}
+.powerOff svg{
+    cursor: pointer;
+}

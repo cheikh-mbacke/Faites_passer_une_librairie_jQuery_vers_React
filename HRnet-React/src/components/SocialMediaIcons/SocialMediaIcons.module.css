@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.container > svg {
+    padding: 0.5em 0;
+    color: #1FA975;
+    font-size: 1.3em;
+}
